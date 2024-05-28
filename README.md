@@ -1,7 +1,7 @@
 <img align="top-right" alt="liuhua" src="./images/liuhua.gif" width="200" height="100"/><img align="top-right" alt="liuhua" src="./images/liuhua.gif" width="200" height="100"/><img align="top-right" alt="liuhua" src="./images/liuhua.gif" width="200" height="100"/><img align="top-right" alt="liuhua" src="./images/liuhua.gif" width="200" height="100"/>
 
 
-# <img align="top-right" alt="liuhua" src="./images/leimu.gif" width="100" height="70"/> I'm PAN ZHANGYU
+# 🤓👍 I'm PAN ZHANGYU
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 
 
-## <img align="top-right" alt="liuhua" src="./images/leimu.gif" width="100" height="70"/> 萌新，谢谢喵
+## 🤓👍 萌新，谢谢喵
 - 🌱
 I still learning big data related: data management, data cleaning, visualization, machine learning, etc. 
 Commonly used languages: python, rstudio
@@ -37,13 +37,15 @@ Commonly used languages: python, rstudio
 
 
 
-## <img align="top-right" alt="liuhua" src="./images/leimu.gif" width="100" height="70"/> Github 活跃度
+## 🤓👍 Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=Nefarian1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Nefarian1's github stats](https://github-readme-stats.vercel.app/api?username=Nefarian1&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nefarian1&langs_count=6) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nefarian1&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nefarian1&langs_count=6) <img align="right" alt="liuhua" src="./images/leimu.gif" width="200" height="150"/>
 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nefarian1&layout=compact&langs_count=6) 
 
 
 
