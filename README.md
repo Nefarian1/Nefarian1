@@ -31,9 +31,9 @@ Commonly used languages: python, rstudio
 
 
 
-<img  alt="hongxia" src="./images/hongxia.gif" width="200" height="100"/><img  alt="kuangsan" src="./images/kuangsan1.gif" width="200" height="100"/><img  alt="hongxia" src="./images/hongxia.gif" width="200" height="100"/><img  alt="kuangsan" src="./images/kuangsan1.gif" width="200" height="100"/>
+<img  alt="hongxia" src="./images/hongxia.gif" width="200" height="100"/><img  alt="kuangsan" src="./images/kuangsan1.gif" width="200" height="100"/><img  alt="kuangsan" src="./images/kuangsan1.gif" width="200" height="100"/><img  alt="hongxia" src="./images/hongxia.gif" width="200" height="100"/>
 
-<img  alt="kuangsan" src="./images/kuangsan1.gif" width="200" height="100"/><img  alt="hongxia" src="./images/hongxia.gif" width="200" height="100"/><img  alt="kuangsan" src="./images/kuangsan1.gif" width="200" height="100"/><img  alt="hongxia" src="./images/hongxia.gif" width="200" height="100"/>
+<img  alt="hongxia" src="./images/hongxia.gif" width="200" height="100"/><img  alt="kuangsan" src="./images/kuangsan1.gif" width="200" height="100"/><img  alt="kuangsan" src="./images/kuangsan1.gif" width="200" height="100"/><img  alt="hongxia" src="./images/hongxia.gif" width="200" height="100"/>
 
 
 
