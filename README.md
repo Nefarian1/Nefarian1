@@ -24,7 +24,7 @@
 
 
 
-## 🤓萌新，谢谢喵
+## <img align="top-right" alt="liuhua" src="./images/leimu.gif" width="100" height="70"/> 萌新，谢谢喵
 - 🌱
 I still learning big data related: data management, data cleaning, visualization, machine learning, etc. 
 Commonly used languages: python, rstudio
@@ -37,7 +37,7 @@ Commonly used languages: python, rstudio
 
 
 
-## 🤓Github 活跃度
+## <img align="top-right" alt="liuhua" src="./images/leimu.gif" width="100" height="70"/> Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=Nefarian1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Nefarian1's github stats](https://github-readme-stats.vercel.app/api?username=Nefarian1&show_icons=true&theme=vue)
