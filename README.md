@@ -28,6 +28,8 @@ Commonly used languages: python, rstudio
 - 🌱
  萌新，谢谢喵🤓
 
+ <img align="right" alt="GIF" src="./images/kuangsan.gif" width="430" height="100%" />
+
 ### Github 活跃度
 - 🌱
 [![](https://activity-graph.herokuapp.com/graph?username=Nefarian1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
