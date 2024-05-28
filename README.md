@@ -1,8 +1,9 @@
 <img align="right" src="https://count.getloli.com/get/@:Nefarian1?theme=rule34">
 
 
-## 🤓 I'm PAN ZHANGYU
-# <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to PAN's homepage&center=true&size=27"> </a> </h1>
+# 🤓 I'm PAN ZHANGYU
+
+## <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to PAN's homepage&center=true&size=27"> </a> </h1>
 
 
 - 🌱
