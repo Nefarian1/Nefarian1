@@ -31,8 +31,8 @@ Commonly used languages: python, rstudio
 
 
 - 🌱
-<img  alt="hongxia" src="./images/hongxia.gif" width="400" height="200"/>
-<img  alt="kuangsan" src="./images/kuangsan1.gif" width="400" height="200"/>
+<img  alt="hongxia" src="./images/hongxia.gif" width="400" height="200"/><img  alt="kuangsan" src="./images/kuangsan1.gif" width="400" height="200"/>
+
 
 
 
