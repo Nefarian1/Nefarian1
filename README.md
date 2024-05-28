@@ -22,12 +22,14 @@
 </div>
 
 
+
+
+## 🤓萌新，谢谢喵
 - 🌱
 I still learning big data related: data management, data cleaning, visualization, machine learning, etc. 
 Commonly used languages: python, rstudio
 
 
-## 🤓萌新，谢谢喵
 - 🌱
 <img  alt="hongxia" src="./images/hongxia.gif" width="400" height="200"/>
 <img  alt="kuangsan" src="./images/kuangsan1.gif" width="400" height="200"/>
