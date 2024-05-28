@@ -22,6 +22,10 @@ Commonly used languages: python, rstudio
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nefarian1&langs_count=6)
 - 🌱
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nefarian1&layout=compact&langs_count=6)
+
+
+- 🌱
+![Nefarian1](https://count.getloli.com/get/@:Nefarian1)
 <!--
 **Nefarian1/Nefarian1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
