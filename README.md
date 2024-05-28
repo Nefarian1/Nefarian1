@@ -28,7 +28,22 @@ Commonly used languages: python, rstudio
 - 🌱
  萌新，谢谢喵🤓
 
- <img align="right" alt="GIF" src="./images/kuangsan.gif" width="430" height="100%" />
+ <style>
+  .left-align {
+    float: left;
+    width: 450px;
+    height: 200px;
+  }
+  
+  .right-align {
+    float: right;
+    width: 450px;
+    height: 200px;
+  }
+</style>
+
+<img class="left-align" alt="Hongxia GIF" src="./images/hongxia.gif" />
+<img class="right-align" alt="Kuangsan1 GIF" src="./images/kuangsan1.gif" />
 
 ### Github 活跃度
 - 🌱
