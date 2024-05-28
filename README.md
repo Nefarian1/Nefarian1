@@ -1,7 +1,7 @@
 <img align="right" src="https://count.getloli.com/get/@:Nefarian1?theme=rule34">
 
 
-# 🤓 I'm PAN ZHANGYU
+# 🤓👍 I'm PAN ZHANGYU
 
 <div align="center">
 
@@ -20,32 +20,21 @@
   </picture>
 
 </div>
+
+
 - 🌱
-Still learning big data related: data management, data cleaning, visualization, machine learning, etc. 
+I still learning big data related: data management, data cleaning, visualization, machine learning, etc. 
 Commonly used languages: python, rstudio
 
-### **社交主页：**
+
+## 🤓萌新，谢谢喵
 - 🌱
- 萌新，谢谢喵🤓
+<img  alt="hongxia" src="./images/hongxia.gif" width="400" height="200"/>
+<img  alt="kuangsan" src="./images/kuangsan1.gif" width="400" height="200"/>
 
- <style>
-  .left-align {
-    float: left;
-    width: 450px;
-    height: 200px;
-  }
-  
-  .right-align {
-    float: right;
-    width: 450px;
-    height: 200px;
-  }
-</style>
 
-<img class="left-align" alt="hongxia" src="./images/hongxia.gif" />
-<img class="right-align" alt="kuangsan" src="./images/kuangsan1.gif" />
 
-### Github 活跃度
+### 🤓Github 活跃度
 - 🌱
 [![](https://activity-graph.herokuapp.com/graph?username=Nefarian1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Nefarian1's github stats](https://github-readme-stats.vercel.app/api?username=Nefarian1&show_icons=true&theme=vue)
