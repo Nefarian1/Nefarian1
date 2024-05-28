@@ -2,6 +2,8 @@
 
 
 ## 🤓 I'm PAN ZHANGYU
+# <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to PAN's homepage&center=true&size=27"> </a> </h1>
+
 - 🌱
 Still learning big data related: data management, data cleaning, visualization, machine learning, etc. 
 Commonly used languages: python, rstudio
