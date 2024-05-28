@@ -34,7 +34,7 @@ Commonly used languages: python, rstudio
 
 
 
-### 🤓Github 活跃度
+## 🤓Github 活跃度
 - 🌱
 [![](https://activity-graph.herokuapp.com/graph?username=Nefarian1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Nefarian1's github stats](https://github-readme-stats.vercel.app/api?username=Nefarian1&show_icons=true&theme=vue)
