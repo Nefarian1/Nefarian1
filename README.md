@@ -42,8 +42,8 @@ Commonly used languages: python, rstudio
   }
 </style>
 
-<img class="left-align" alt="Hongxia GIF" src="./images/hongxia.gif" />
-<img class="right-align" alt="Kuangsan1 GIF" src="./images/kuangsan1.gif" />
+<img class="left-align" alt="hongxia" src="./images/hongxia.gif" />
+<img class="right-align" alt="kuangsan" src="./images/kuangsan1.gif" />
 
 ### Github 活跃度
 - 🌱
