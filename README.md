@@ -42,7 +42,7 @@ Commonly used languages: python, rstudio
 [![](https://activity-graph.herokuapp.com/graph?username=Nefarian1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Nefarian1's github stats](https://github-readme-stats.vercel.app/api?username=Nefarian1&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nefarian1&langs_count=6) <img align="right" alt="liuhua" src="./images/leimu.gif" width="200" height="150"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nefarian1&langs_count=6) <img align="right" alt="liuhua" src="./images/leimu.gif" width="300" height="225"/>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nefarian1&layout=compact&langs_count=6) 
