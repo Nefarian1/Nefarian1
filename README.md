@@ -1,4 +1,4 @@
-<img align="top-right" alt="liuhua" src="./images/liuhua.gif" width="200" height="100"/><img align="top-right" alt="liuhua" src="./images/liuhua.gif" width="200" height="100"/><img align="top-right" alt="liuhua" src="./images/liuhua.gif" width="200" height="100"/><img align="top-right" alt="liuhua" src="./images/liuhua.gif" width="200" height="100"/>
+<img align="top-right" alt="liuhua" src="./images/liuhua.gif" width="200" height="100"/><img align="top-right" alt="liuhua" src="./images/liuhua.gif" width="200" height="100"/><img align="top-right" alt="liuhua" src="./images/liuhua.gif" width="200" height="100"/>
 
 
 # 🤓👍 I'm PAN ZHANGYU
@@ -31,9 +31,8 @@ Commonly used languages: python, rstudio
 
 
 
-<img  alt="hongxia" src="./images/hongxia.gif" width="200" height="100"/><img  alt="kuangsan" src="./images/kuangsan1.gif" width="200" height="100"/><img  alt="kuangsan" src="./images/kuangsan1.gif" width="200" height="100"/><img  alt="hongxia" src="./images/hongxia.gif" width="200" height="100"/>
+<img  alt="hongxia" src="./images/hongxia.gif" width="200" height="100"/><img  alt="kuangsan" src="./images/kuangsan1.gif" width="200" height="100"/><img  alt="hongxia" src="./images/hongxia.gif" width="200" height="100"/>
 
-<img  alt="hongxia" src="./images/hongxia.gif" width="200" height="100"/><img  alt="kuangsan" src="./images/kuangsan1.gif" width="200" height="100"/><img  alt="kuangsan" src="./images/kuangsan1.gif" width="200" height="100"/><img  alt="hongxia" src="./images/hongxia.gif" width="200" height="100"/>
 
 
 
