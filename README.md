@@ -24,7 +24,7 @@
 
 
 
-## 🤓👍 萌新，谢谢喵
+## 🤓👍 illustrate
 - 🌱
 I still learning big data related: data management, data cleaning, visualization, machine learning, etc. 
 Commonly used languages: python, rstudio
@@ -36,7 +36,7 @@ Commonly used languages: python, rstudio
 
 
 
-## 🤓👍 Github 活跃度
+## 🤓👍 Github activity
 
 [![](https://activity-graph.herokuapp.com/graph?username=Nefarian1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Nefarian1's github stats](https://github-readme-stats.vercel.app/api?username=Nefarian1&show_icons=true&theme=vue)
