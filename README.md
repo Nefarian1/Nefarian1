@@ -22,7 +22,6 @@
 
 
 
-
 ## 🤓👍 illustrate
 - 🌱
 I still learning big data related: data management, data cleaning, visualization, machine learning, etc. 
