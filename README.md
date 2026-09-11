@@ -33,7 +33,7 @@ Commonly used languages: python, rstudio
 
 <img align="middle" alt="kuangsan" src="./images/kuangsan1.gif" width="200" height="100"/>
 
-<img align="middle" alt="liuhua" src="./images/leimu.gif" width="300" height="225"/>
+<img align="middle" alt="liuhua" src="./images/leimu.gif" width="200" height="100"/>
 
 
 
