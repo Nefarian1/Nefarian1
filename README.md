@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://count.getloli.com/get/@:Minori-ty?theme=rule34" />
+<img src="https://count.getloli.com/get/@:Nefarian1?theme=rule34" />
 
 </div>
 
